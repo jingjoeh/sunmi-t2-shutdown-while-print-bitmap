@@ -6,7 +6,10 @@ Cause of we found problem while printing black large bitmap, the device is shutd
   - Adjust bitmap size in code.
   - Unplug/plug the adaper on behide of device.
 
-Sunmi T2 Specifications
+# Test apk</br>
+https://github.com/jingjoeh/sunmi-t2-shutdown-while-print-bitmap/blob/master/apk/app-debug.apk
+
+#Sunmi T2 Specifications
 ![](https://github.com/jingjoeh/sunmi-t2-shutdown-while-print-bitmap/blob/master/images/sunmi-t2-specs.jpg?raw=true)
 
 #Adapter
